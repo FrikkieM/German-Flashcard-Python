@@ -1,5 +1,3 @@
-Sure, here's a detailed README file for your flashcard project, suitable for a GitHub repository:
-
 ```markdown
 # German Flashcards
 
@@ -77,19 +75,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Special thanks to the [Tkinter](https://docs.python.org/3/library/tkinter.html) and [Pandas](https://pandas.pydata.org/) communities for their invaluable libraries and documentation.
 
-## Contact
-
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
-
 ---
 
-Happy learning!
 ```
-
-### How to Use
-
-1. Replace the placeholder link in the "Clone the repository" section with your actual GitHub repository link.
-2. Ensure your contact email is correct in the "Contact" section.
-3. Customize any other sections to fit your specific needs or preferences.
-
-This README file provides clear instructions on how to install, use, and customize the flashcard application, making it easy for others to understand and contribute to your project.
